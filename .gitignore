@@ -1,9 +1,9 @@
 # binary and IDE/project excludes
 target/
-AutomatedHadoopDeployment/target/
-AutomatedHadoopDeployment/.idea/
-AutomatedHadoopDeployment/AutomatedHadoopDeployment.iml
-**/AutomatedHadoopDeployment.iml
+Kobenhavn-2/target/
+Kobenhavn-2/.idea/
+Kobenhavn-2/Kobenhavn-2.iml
+**/Kobenhavn-2.iml
 .gitignore
 
 
